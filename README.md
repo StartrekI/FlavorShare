@@ -37,6 +37,9 @@
 2. Install server dependencies:
    ```bash
    npm install
+3. In .env write your MongoDB url
+   ```bash
+   MONGO_DB=Your_Url
 
 ### Running the Project
 Follow the steps below to run the project in development mode.
