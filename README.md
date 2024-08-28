@@ -1,6 +1,5 @@
-# Let's Cook
-
-### Welcome to Let's! This web application allows users to manage their recipes, including adding, editing, and deleting recipes, and saving other recipes.
+# FlavorShare
+### Welcome to FlavorShare ! This web application allows users to manage their recipes, including adding, editing, and deleting recipes, and saving other recipes.
 
 ## Features
 
@@ -58,26 +57,7 @@ Development Mode
    npm run build
 ```
 
-### Contributing to Let's Cook
 
-We welcome contributions from the community to help improve and expand the Let's Cook. Whether you're a seasoned developer or just starting out, there are several ways you can contribute.
-
-## Getting Started
-
-<ol>
-    <li>
-    Fork the project repository on GitHub.
-    </li>
-    <li>Clone your forked repository to your local machine.</li>
-    <li>Install the necessary dependencies using npm install.</li>
-</ol>
-
-## Submitting a Pull Request
-
-<ol>
-    <li>
-    Create a new branch for your contribution: git checkout -b feature/your-feature-name.
-    </li>
     <li>Make your changes and test them thoroughly.</li>
     <li>Commit your changes with descriptive commit messages.</li>
     <li>Push your branch to your forked repository: git push origin feature/your-feature-name.</li>
