@@ -52,14 +52,4 @@ Development Mode
 2. The client is available at http://localhost:5173.
 3. The server is available at http://localhost:3001.
 
-### Building the Project
-   ```bash
-   npm run build
-```
 
-
-    <li>Make your changes and test them thoroughly.</li>
-    <li>Commit your changes with descriptive commit messages.</li>
-    <li>Push your branch to your forked repository: git push origin feature/your-feature-name.</li>
-    <li>Open a pull request to the original repository's main branch, explaining your changes and their benefits.</li>
-</ol>
